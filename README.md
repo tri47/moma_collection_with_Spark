@@ -1,4 +1,4 @@
-## Analyse The Museum of Modern Art (MoMA) Collection with Spark
+## Analyse The Museum of Modern Art (MoMA) Collection with Apache Spark
 ===================
 
 ### Original blog post - infographic
